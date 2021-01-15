@@ -1,0 +1,15 @@
+{
+  "name": "HEIC2JPG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "heic-convert": "^1.2.4"
+  }
+}
